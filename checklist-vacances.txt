@@ -2,4 +2,6 @@ liste de vacance
 maillot
 raquette
 ballon
+boules pétanque
+fléchettes
 
